@@ -1,4 +1,4 @@
-Java Fundamentals and OOP Project
+__Java Fundamentals and OOP Project__
 Overview
 This repository is a comprehensive Java project designed to cover a wide range of programming concepts, from basic syntax to advanced object-oriented programming (OOP) principles. It serves as a valuable resource for anyone looking to build a strong foundation in Java, whether you're a beginner or an intermediate learner aiming to enhance your skills.
 
